@@ -1,12 +1,10 @@
-#by Engineer Jhoberg \
-#Algorit Fast Foruar Trasform
-MATLAB OCTAVE LINUX CAD ALGORTM FAST FORIRAR TRASFORM \
+# by Engineer Jhoberg \ #
+Algorit Fast Fouriear Trasform
+MATLAB OCTAVE LINUX CAD ALGORITM FAST FOURIEAR TRASFORM \
 LANGEiGNE C ALGORITM \
 MICRoTrOLLLER 8 BIT ALGORTiM ATMEL CIRCUIT IN CHIP \
 
-
-
-//lib interface
+```c
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
@@ -14,7 +12,7 @@ MICRoTrOLLLER 8 BIT ALGORTiM ATMEL CIRCUIT IN CHIP \
 #include <stdio.h>
 #include <stdlib.h>
 #include <signal.h>
-#include <math.h>
+#include <math
 #define BAUDRATE B38400
 /* change this definition for the correct port */
 #define MODEMDEVICE "/dev/ttyS0"
@@ -589,3 +587,5 @@ float f[MUESTRAS];
         
  return 1;
 }
+
+```

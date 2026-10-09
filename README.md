@@ -1,4 +1,4 @@
-# by Engineer Jhoberg  #
+# by Engineer Jhoberg Quevedo Ruiz cc 82393998 #
 Algorit Fast Fouriear Trasform
 MATLAB OCTAVE LINUX CAD ALGORITM FAST FOURIEAR TRASFORM 
 LANGEiGNE C ALGORITM 

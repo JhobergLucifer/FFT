@@ -3,6 +3,7 @@ Algorit Fast Fouriear Trasform
 MATLAB OCTAVE LINUX CAD ALGORITM FAST FOURIEAR TRASFORM 
 LANGEiGNE C ALGORITM 
 MICROCONTROLLLER 8 BIT ALGORTiM ATMEL CIRCUIT IN CHIP 
+![DSP CIRCUIT MICROSHIP](https://github.com/JhobergLucifer/FFT/blob/main/dpsic16butchipcircuit.jpeg)
 
 ```c
 #include <sys/types.h>

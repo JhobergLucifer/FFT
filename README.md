@@ -6,6 +6,7 @@ MICROCONTROLLLER 8 BIT ALGORTiM ATMEL CIRCUIT IN CHIP
 ![DSP CIRCUIT MICROSHIP](https://github.com/JhobergLucifer/FFT/blob/main/dpsic16butchipcircuit.jpeg)
 
 ```c
+/* BY JHOBERG QUEVEDO RUIZ CC 82993998 */
 #include <sys/types.h>
 #include <sys/stat.h>
 #include <fcntl.h>
